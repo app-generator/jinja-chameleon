@@ -14,9 +14,9 @@
 
 <br />
 
-## UI Kit - Chameleon Admin Lite
+## UI Kit - [Chameleon Admin Lite](https://themeselection.com/products/chameleon-admin-free-bootstrap-dashboard-template/?ref=appseed)
 
-*Vendor Notes* - Chameleon Admin Lite is a Free Modern Bootstrap 4 WebApp & Admin Dashboard Html Template elegant design, clean and organised code.
+*Vendor Notes* - [Chameleon Admin Lite](https://themeselection.com/products/chameleon-admin-free-bootstrap-dashboard-template/?ref=appseed) is a Free Modern Bootstrap 4 WebApp & Admin Dashboard Html Template elegant design, clean and organised code.
 Chameleon admin template is powered with HTML 5, CSS 3, Bootstrap 4, SASS, Gulp. Responsive design which looks great on Desktops, Tablets, and Mobile Devices. Chameleon bootstrap admin template comes with starter kit which will help developers to get started quickly.
 
 <br />
